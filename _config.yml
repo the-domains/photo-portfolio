@@ -1,7 +1,7 @@
 name: Photo Portfolio
 favicon: null
-layout_spectrum: 0.25908338092267513
-typography_spectrum: 0.29945838381536305
+layout_spectrum: 1
+typography_spectrum: 0.55644
 cta:
   domain: null
   bucket: null
