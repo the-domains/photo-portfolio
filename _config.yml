@@ -1,7 +1,7 @@
 name: Photo Portfolio
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.55644
+layout_spectrum: 0.83876
+typography_spectrum: 0.14716
 title: Portfolio
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#cccccc'
-    - '#969696'
-    - '#9f9f9f'
-    - '#b0b0b0'
-    - '#bdbdbd'
-  brandStrength: 0.5
-  lightness: 0.5
-  saturation: 1
-  rhythmicContrast: 0.9128223459701985
+    - '#69839e'
+    - '#284a6f'
+    - '#e6e2df'
+    - '#11223d'
+    - '#839eb1'
+  brandStrength: 0
+  lightness: 0.8125
+  saturation: 0.1875
+  rhythmicContrast: 0.5
 purpose: []
