@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Alec R. | Photo Portfolio]]></title>
         <description><![CDATA[Alec R. | Photo Portfolio]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/photo-portfolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jan 2016 19:08:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 30 Jan 2016 19:09:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/photo-portfolio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/27aa20c5-6218-4bde-b211-cc2a306e0508.JPG">]]></description>
+            <link>https://thegrid.ai/photo-portfolio/81c9602c-c705-41d5-9b75-9695ebca9c40/index.html</link>
+            <guid isPermaLink="false">81c9602c-c705-41d5-9b75-9695ebca9c40</guid>
+            <pubDate>Sat, 30 Jan 2016 19:08:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed001295-a8a5-4a4a-a6ba-7de6e6454732.jpg">]]></description>
-            <link>undefined45d0d4b0-40fe-4356-8a7c-8697c61ab521/index.html</link>
+            <link>https://thegrid.ai/photo-portfolio/45d0d4b0-40fe-4356-8a7c-8697c61ab521/index.html</link>
             <guid isPermaLink="false">45d0d4b0-40fe-4356-8a7c-8697c61ab521</guid>
             <pubDate>Sat, 30 Jan 2016 19:07:18 GMT</pubDate>
         </item>
