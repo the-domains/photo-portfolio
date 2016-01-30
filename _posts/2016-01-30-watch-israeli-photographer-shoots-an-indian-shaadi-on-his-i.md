@@ -25,8 +25,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.huffingtonpost.in/2016/01/29/wedding-photos-using-ipho_n_9108490.html'
 title: 'WATCH: Israeli Photographer Shoots An Indian Shaadi On His iPhone. The Result Is Magic'
-datePublished: '2016-01-30T19:08:37.603Z'
-dateModified: '2016-01-30T18:53:27.690Z'
+datePublished: '2016-01-30T19:45:09.801Z'
+dateModified: '2016-01-30T19:24:37.362Z'
 sourcePath: _posts/2016-01-30-watch-israeli-photographer-shoots-an-indian-shaadi-on-his-i.md
 published: true
 inFeed: true
