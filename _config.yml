@@ -1,7 +1,7 @@
 name: Photo Portfolio
 favicon: null
-layout_spectrum: 0.88943
-typography_spectrum: 0.19915
+layout_spectrum: 0.22339
+typography_spectrum: 0.09261
 title: 'Alec R. | Photo Portfolio'
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#e6e2df'
     - '#11223d'
     - '#839eb1'
-  brandStrength: 0
-  lightness: 0.8125
-  saturation: 0.1875
+  brandStrength: 0.75
+  lightness: 0.6875
+  saturation: 0.25
   rhythmicContrast: 0.5
 purpose: []
