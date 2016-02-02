@@ -4,7 +4,7 @@
         <description><![CDATA[Alec R. | Photo Portfolio]]></description>
         <link>https://thegrid.ai/photo-portfolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 04:26:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Feb 2016 04:26:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/photo-portfolio/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/photo-portfolio/cb88c4b0-9437-45f1-8f6b-0b4fe6960842/index.html</link>
             <guid isPermaLink="false">cb88c4b0-9437-45f1-8f6b-0b4fe6960842</guid>
             <pubDate>Sun, 31 Jan 2016 18:55:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/00e6b501-d5e1-403b-9ce0-9032a3a984ba.png">]]></description>
-            <link>https://thegrid.ai/photo-portfolio/85ce1e3b-fc4c-4373-8601-50f234ab5188/index.html</link>
-            <guid isPermaLink="false">85ce1e3b-fc4c-4373-8601-50f234ab5188</guid>
-            <pubDate>Tue, 02 Feb 2016 04:25:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -75,6 +68,13 @@
             <link>https://thegrid.ai/photo-portfolio/cc998a25-03ab-4c25-b4c0-d4e4038ed9c4/index.html</link>
             <guid isPermaLink="false">cc998a25-03ab-4c25-b4c0-d4e4038ed9c4</guid>
             <pubDate>Tue, 02 Feb 2016 04:25:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Apple Unveils Billboards in 85 Cities for iPhone 6s Photography Campaign]]></title>
+            <description><![CDATA[<article><h1>Apple Unveils Billboards in 85 Cities for iPhone 6s Photography Campaign</h1><p>Apple Inc. ( NASDAQ:AAPL) has launched its "Shot on iPhone" campaign again. 9to5 Mac reports that the company has rolled out new billboards on Sunday, featuring some of the photographs captured from Apple's iPhone 6s and iPhone 6s Plus devices.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/003abe5b28342d6037f1c22dec6ef61fa3ec3b7e.jpg"></article>]]></description>
+            <link>http://www.bidnessetc.com/62467-apple-unveils-billboards-in-85-cities-for-iphone-6s-photography-campaign/</link>
+            <guid isPermaLink="false">378a3e98-8bb6-4a2b-9b75-86c7baef9ca9</guid>
+            <pubDate>Tue, 02 Feb 2016 04:25:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
